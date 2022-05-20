@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Johnny Sexton",
+        "image": "jsexton.png",
+        "animalsBred": "Whatever I can find",
+        "location": "Athlone, Co. Westmeath",
+        "phone": "087-1234567",
+        "email": "eatcows@gmail.com",
+        "latitude": 52.268074417014205,
+        "longitude": -9.709598033503902   
+    },
+    {
+        "name": "Keith Earls",
+        "image": "kearls.png",
+        "animalsBred": "Friesian, Hereford",
+        "location": "Tralee, Co. Kerry",
+        "phone": "087-7654321",
+        "email": "cows.are.pigs@gmail.com",
+        "latitude": 53.424266686025405,
+        "longitude": -7.924037857315416
+    },
+    {
+        "name": "Rob Kearney",
+        "image": "rkearney.png",
+        "animalsBred": "Charlaois, Hereford",
+        "location": "New Ross, Co. Wexford",
+        "phone": "086-7654321",
+        "email": "rugby.cows@gmail.com",
+        "latitude": 52.39835550198619,
+        "longitude": -6.973183151107031 
+    }
+]
